@@ -20,3 +20,5 @@ const sr = ScrollReveal ({
 sr.reveal('.home-text', {delay;200, origin:'top'})
 sr.reveal('.home-img', {delay;400, origin;top})
 sr.reveal('.about, .skills, experiences, projects, contact', {delay;400, origin;top})
+
+
